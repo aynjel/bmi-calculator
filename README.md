@@ -3,4 +3,4 @@
 
 [Demo](https://aynjel.github.io/bmi-calculator/)
 
-![alt text](https://previews.dropbox.com/p/thumb/ACDa7g8b5hkLWOT1-zNUP5ha85-iHkoAFJbvkdhGZb7HElzGIr643YI7uiQNPbpBTa5LKApW4PabWq8I4AHfzy2Bca35KBLIr9kTiyRZiTLbt7xo_82Dm55VAQaejktcbdhAKM5r_qhMWVpQtc0a4YOzL4QIA9MJLtXYeYYHuiU4h86kNlWYKMSwyMbncts0Vvgmgu-cK36Ic_Y40ItCncHQJLbzRyzoDtEOHc6HW_Q6gEolrpq2l_ua5JmuDeeQMOoM5J2lNHUWJJGlKD3jF5e9yBMRWVH8zKQZL3bVwK3Mb08dz3C8vo4C0k0m1sVPd2ocaTyXyvfV3dBJui1TDd5l/p.png)
+![BMI image](images/bmi-ui.png)
